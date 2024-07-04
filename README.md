@@ -1,5 +1,10 @@
 # Neural Operator-Based Proxy for Reservoir Simulations Considering Varying Well Settings, Locations, and Permeability Fields
-In this work we introduce a fourier neural operator for predicting pressures and saturations in porous media for new unseen permeability fields, well locations, well controls, and number of wells. Our model is a single model for predicting both pressures and saturations simulataneously. We also introduce a very simple yet efficient data augmentation technique that reduces training simulations by 75% and reduces overfitting.
+In this work we introduce a fourier neural operator for predicting pressures and saturations in porous media for new unseen permeability fields, well locations, well controls, and number of wells. Our model is a single model for predicting both pressures and saturations simulataneously. We also introduce a very simple yet efficient data augmentation technique that reduces training simulations by 75% and reduces overfitting.<br/>
+
+## Results
+Below are the results of our work. The first image shows pressure predictions, and the second figure shows saturation predictions.
+![pressure predictions](./p_pred.png)
+![saturation predictions](./sw_pred.png)
 
 ## Datasets
 Training and testing datasets can be found in this link: https://drive.google.com/drive/folders/1TodGn-oRwbhjH2t_UJz8b0pCsrXCpMgX?usp=sharing <br/>
