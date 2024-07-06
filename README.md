@@ -13,8 +13,8 @@ Training and testing datasets can be found in this link: https://drive.google.co
 
 ## Trained models
 The Pre-trained model can also available at: https://drive.google.com/drive/folders/1TodGn-oRwbhjH2t_UJz8b0pCsrXCpMgX?usp=sharing <br/>
-* Pre-trained model is: ***model_07032024_augmented3500epoch800.pt***
-* Losses file is: ***losses_07032024_augmented3500epoch800.npy***
+* Pre-trained model is: ***model_07042024_augmented3500epoch800.pt***
+* Losses file is: ***losses_07042024_augmented3500epoch800.npy***
 
 ## Requirements
 The following versions of NumPy and PyTorch are NOT minimum requirements. The user can work with whichever version they choose<br/>
