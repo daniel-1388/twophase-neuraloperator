@@ -26,7 +26,7 @@ The following versions of NumPy and PyTorch are NOT minimum requirements. The us
 @article{dbadawi2024,
 title={Neural Operator-Based Proxy for Reservoir Simulations Considering Varying Well Settings, Locations, and Permeability Fields},
   author={Daniel Badawi and Eduardo Gildin},
-  doi={}
+  doi={https://doi.org/10.48550/arXiv.2407.09728}
   pages={},
   year={2024},
   publisher={}
