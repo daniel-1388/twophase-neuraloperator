@@ -3,8 +3,7 @@ In this work we introduce a fourier neural operator for predicting pressures and
 
 ## Results
 Below are the results of our work. The first image shows pressure predictions, and the second figure shows saturation predictions.
-![pressure predictions](./p_pred.png)
-![saturation predictions](./sw_pred.png)
+![predictions](./pres_sw_pred.png)
 
 ## Datasets
 Training and testing datasets can be found in this link: https://drive.google.com/drive/folders/1TodGn-oRwbhjH2t_UJz8b0pCsrXCpMgX?usp=sharing <br/>
